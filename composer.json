@@ -1,5 +1,5 @@
 {
-    "name": "awaresoft/SonataTimelineBundle",
+    "name": "awaresoft/sonata-timeline-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Awaresoft SonataTimelineBundle",
     "require": {
